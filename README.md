@@ -16,4 +16,5 @@ Recently, some of the countries have stopped reporting Covid-19 data so most of 
 * Active Cases are calculated based on recoveries so this will not be also correct
 * Anything that requires recoveries in the calculation isn't 100% correct, like deaths/100recoveries, etc.
 * Most of these reports are based on the US but mostly it is true for the rest of the world.
+* *
 [images.fig.pdf](https://github.com/JoyEmeto/World-Covid-19-Data-Analysis/files/8527454/images.fig.pdf)
